@@ -6,12 +6,6 @@ models/bert-imdb-checkpoints/
 models/bert-imdb-final/*.safetensors
 *.safetensors*
 
-# Results
-results/
-
-# Logs
-logs/
-
 # Python cache
 __pycache__/
 *.pyc

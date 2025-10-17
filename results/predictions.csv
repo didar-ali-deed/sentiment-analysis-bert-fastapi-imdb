@@ -1,0 +1,6 @@
+text,predicted_label,score
+This movie was absolutely fantastic! I loved every moment of it.,Positive,0.9995999932289124
+"The plot was boring and the acting was terrible, a complete waste of time.",Negative,0.999660849571228
+"It was an okay movie, not great but not awful either.",Negative,0.9989702701568604
+"The cinematography was stunning, but the story lacked depth.",Negative,0.9984461665153503
+"I couldn't stop laughing, this comedy was pure gold!",Positive,0.9994950294494629
